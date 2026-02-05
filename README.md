@@ -1,4 +1,4 @@
-![Isometric calendar](./metrics.plugin.isocalendar.fullyear.svg)
+![Full-year isocalendar](./metrics.plugin.isocalendar.fullyear.svg)
 
 <!--
 **ItBurnsWhenICommit/ItBurnsWhenICommit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
